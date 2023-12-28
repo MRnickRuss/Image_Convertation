@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\android\\app",
+    "\\lib",
+    "\\lib\\screens",
+    "\\lib\\utils"
+  ],
+  "SelectedNode": "\\lib\\utils\\geo_math.dart",
+  "PreviewInSolutionExplorer": false
+}
